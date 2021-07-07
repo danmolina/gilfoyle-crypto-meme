@@ -46,4 +46,4 @@ def startProcess(URL = "https://coinmarketcap.com/currencies/bitcoin", treshold 
 
     checkPrice()
 
-startProcess("https://coinmarketcap.com/currencies/bitcoin/", 35000)
+startProcess()
